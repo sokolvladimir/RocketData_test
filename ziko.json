@@ -1,0 +1,3443 @@
+{
+    "0": {
+        "address": "ul. 11 Listopada 37 (na rogu Komorowickiej) Bielsko-Biała",
+        "location": [
+            49.823244,
+            19.052752
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 55",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  07:30 - 14:30"
+        ]
+    },
+    "1": {
+        "address": "ul. Norberta Barlickiego 7 (w biurowcu OSCAR) Bielsko-Biała",
+        "location": [
+            49.823277,
+            19.04599
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 49",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "2": {
+        "address": "ul. Norberta Barlickiego 7 (w biurowcu OSCAR) Bielsko-Biała",
+        "location": [
+            49.823277,
+            19.04599
+        ],
+        "name": "Ziko Dermo",
+        "phones": "33 484 81 50",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "3": {
+        "address": "ul. Kolista 23 (Retail Park Karpacka) Bielsko-Biała",
+        "location": [
+            49.802394,
+            19.029408
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 48",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    },
+    "4": {
+        "address": "ul. Leszczyńska 20 (GEMINI PARK) Bielsko-Biała",
+        "location": [
+            49.802537,
+            19.051112
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 53",
+        "working_hours": [
+            "pon-pt  09:00 - 21:00",
+            "sobota  09:00 - 21:00",
+            "niedziela handlowa  10:00 - 20:00"
+        ]
+    },
+    "5": {
+        "address": "ul. Mostowa 5 (Galeria SFERA) Bielsko-Biała",
+        "location": [
+            49.827313,
+            19.049717
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 56",
+        "working_hours": [
+            "pon-pt  09:00 - 21:00",
+            "sobota  09:00 - 21:00",
+            "niedziela handlowa  10:00 - 20:00"
+        ]
+    },
+    "6": {
+        "address": "ul. Marszałka Józefa Piłsudskiego 12/3 (przy przystanku Piłsudskiego) Bielsko-Biała",
+        "location": [
+            49.825194,
+            19.050811
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 52",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "7": {
+        "address": "ul. Warszawska 5 (koło dworca PKP i PKS) Bielsko-Biała",
+        "location": [
+            49.830086,
+            19.043671
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 54",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "8": {
+        "address": "ul. Kościuszki 1 (przy Rynku) Bochnia",
+        "location": [
+            49.96902,
+            20.43147
+        ],
+        "name": "Ziko Apteka",
+        "phones": "14 696 89 93",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "9": {
+        "address": "ul. Kolejowa 18 (AUCHAN) Bytom",
+        "location": [
+            50.345287,
+            18.911044
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 05",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  09:00 - 18:00"
+        ]
+    },
+    "10": {
+        "address": "ul. Kościuszki 9 (Kaufland) Chorzów",
+        "location": [
+            50.299296,
+            18.958513
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 35",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 21:00",
+            "niedziela handlowa  09:00 - 19:00",
+            "niedziela niehandlowa  09:00 - 19:00"
+        ]
+    },
+    "11": {
+        "address": "ul. Jana III Sobieskiego 21 (przy Placu Matejki) Chorzów",
+        "location": [
+            50.294127,
+            18.953514
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 27",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "12": {
+        "address": "aleja Wolności 4 (Dom Handlowy Centrum) Częstochowa",
+        "location": [
+            50.810742,
+            19.117993
+        ],
+        "name": "Ziko Apteka",
+        "phones": "34 307 26 45",
+        "working_hours": [
+            "pon-pt  07:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "13": {
+        "address": "ul. 3 Maja 3 Dąbrowa Górnicza",
+        "location": [
+            50.324471,
+            19.183952
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 24",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "14": {
+        "address": "ul. Królowej Jadwigi 25 (skrzyżowanie z ul. Reymonta) Dąbrowa Górnicza",
+        "location": [
+            50.324766,
+            19.201705
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 04",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "15": {
+        "address": "ul. Legionów Polskich 38C (między Kauflandem a supermarketem Aldi) Dąbrowa Górnicza",
+        "location": [
+            50.320573,
+            19.174489
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 20",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "16": {
+        "address": "ul. Legionów Polskich 38C (między Kauflandem a supermarketem Aldi) Dąbrowa Górnicza",
+        "location": [
+            50.320573,
+            19.174489
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 21",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "17": {
+        "address": "ul. Józefa Wybickiego 7 Dąbrowa Górnicza",
+        "location": [
+            50.339303,
+            19.225112
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 38",
+        "working_hours": [
+            "pon-pt  07:00 - 19:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "18": {
+        "address": "ul. Maszewska 2 naprzeciwko Urzędu Gminy Deszczno",
+        "location": [
+            52.6696778,
+            15.3081607
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 90",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "19": {
+        "address": "plac Piastów 10 (na rogu ul. Dubois i pl. Piastów)  Gliwice",
+        "location": [
+            50.29808,
+            18.676316
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 23",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "20": {
+        "address": "ul. Zwycięstwa 3 (obok Rynku) Gliwice",
+        "location": [
+            50.29455,
+            18.666975
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 15",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "21": {
+        "address": "ul. Marszałka Józefa Piłsudskiego 19 (Galeria Glogovia) Głogów",
+        "location": [
+            51.649873,
+            16.056719
+        ],
+        "name": "Ziko Apteka",
+        "phones": "76 817 69 77",
+        "working_hours": [
+            "pon-pt  09:00 - 21:00",
+            "sobota  09:00 - 21:00",
+            "niedziela handlowa  10:00 - 20:00"
+        ]
+    },
+    "22": {
+        "address": "ul. Budowlanych 13  Gorzów Wielkopolski",
+        "location": [
+            52.722937,
+            15.229447
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 99",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "23": {
+        "address": "ul. Gwiaździsta 16  Gorzów Wielkopolski",
+        "location": [
+            52.726124,
+            15.205618
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 97",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "24": {
+        "address": "ul. Kazimierza Wielkiego 86 Gorzów Wielkopolski",
+        "location": [
+            52.753974,
+            15.233022
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 93",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "25": {
+        "address": "ul. Londyńska 5A (osiedle Europejskie) Gorzów Wielkopolski",
+        "location": [
+            52.735346,
+            15.195902
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 88",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "26": {
+        "address": "ul. Łużycka 7 (naprzeciwko Galerii Młyńskiej) Gorzów Wielkopolski",
+        "location": [
+            52.730003,
+            15.235592
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 85",
+        "working_hours": [
+            "pon-pt  07:00 - 23:00",
+            "sobota  07:00 - 23:00",
+            "niedziela handlowa  07:00 - 23:00",
+            "niedziela niehandlowa  07:00 - 23:00"
+        ]
+    },
+    "27": {
+        "address": "ul. Marcinkowskiego 90A Gorzów Wielkopolski",
+        "location": [
+            52.738919,
+            15.211982
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 95",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "28": {
+        "address": "ul. Matejki 45A Gorzów Wielkopolski",
+        "location": [
+            52.735642,
+            15.211329
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 86",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    },
+    "29": {
+        "address": "ul. Mickiewicza 7 (obok Lidla) Gorzów Wielkopolski",
+        "location": [
+            52.74092,
+            15.232561
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 92",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "30": {
+        "address": "ul. Piłsudskiego 46H Gorzów Wielkopolski",
+        "location": [
+            52.752299,
+            15.244074
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 96",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 20:00",
+            "niedziela niehandlowa  10:00 - 20:00"
+        ]
+    },
+    "31": {
+        "address": "ul. Pomorska 34 Gorzów Wielkopolski",
+        "location": [
+            52.74154799999999,
+            15.253488
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 87",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "32": {
+        "address": "ul. Szarych Szeregów 38 Gorzów Wielkopolski",
+        "location": [
+            52.763344,
+            15.262946
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 91",
+        "working_hours": [
+            "pon-pt  07:00 - 21:00",
+            "sobota  08:00 - 20:00"
+        ]
+    },
+    "33": {
+        "address": "ul. Piłsudskiego 4 (obok Kina Centrum) Grójec",
+        "location": [
+            51.865458,
+            20.867833
+        ],
+        "name": "Ziko Apteka",
+        "phones": "48 364 89 06",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  07:30 - 15:30"
+        ]
+    },
+    "34": {
+        "address": "ul. Basaja 4 (Kaufland) Hrubieszów",
+        "location": [
+            50.794781,
+            23.891505
+        ],
+        "name": "Ziko Apteka",
+        "phones": "84 538 89 82",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  08:00 - 18:00"
+        ]
+    },
+    "35": {
+        "address": "ul. Basaja 4 (Kaufland) Hrubieszów",
+        "location": [
+            50.794781,
+            23.891505
+        ],
+        "name": "Ziko Dermo",
+        "phones": "84 538 89 83",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "36": {
+        "address": "ul. Andrzeja 19 (obok Supermarketu Mila) Inowrocław",
+        "location": [
+            52.79424,
+            18.265626
+        ],
+        "name": "Ziko Apteka",
+        "phones": "52 335 09 97",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00"
+        ]
+    },
+    "37": {
+        "address": "ul. 11 Listopada 2 (przy Rondzie Zdrojowym) Jastrzębie-Zdrój",
+        "location": [
+            49.950183,
+            18.575375
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 01",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "38": {
+        "address": "ul. Warmińska 2 (obok Targowiska) Jastrzębie-Zdrój",
+        "location": [
+            49.946034,
+            18.60495
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 02",
+        "working_hours": [
+            "pon-pt  07:30 - 19:30",
+            "sobota  07:30 - 15:30"
+        ]
+    },
+    "39": {
+        "address": "ul. Warmińska 2 (obok Targowiska) Jastrzębie-Zdrój",
+        "location": [
+            49.946034,
+            18.60495
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 03",
+        "working_hours": [
+            "pon-pt  08:00 - 19:30",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "40": {
+        "address": "ul. Warszawska 2 (Galeria Jastrzębie) Jastrzębie-Zdrój",
+        "location": [
+            49.951422,
+            18.596962
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 34",
+        "working_hours": [
+            "pon-pt  09:00 - 21:00",
+            "sobota  09:00 - 21:00",
+            "niedziela handlowa  10:00 - 20:00"
+        ]
+    },
+    "41": {
+        "address": "ul. Grunwaldzka 104 Jaworzno",
+        "location": [
+            50.207326,
+            19.265945
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 33",
+        "working_hours": [
+            "pon-pt  08:00 - 19:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "42": {
+        "address": "ul. Grunwaldzka 59 (Galeria Handlowa Galena) Jaworzno",
+        "location": [
+            50.203185,
+            19.270152
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 22",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 21:00",
+            "niedziela handlowa  10:00 - 20:00",
+            "niedziela niehandlowa  10:00 - 20:00"
+        ]
+    },
+    "43": {
+        "address": "ul. Gorzowska 153A obok Biedronki Jenin",
+        "location": [
+            52.701444,
+            15.120011
+        ],
+        "name": "Ziko Apteka",
+        "phones": "95 880 99 89",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "44": {
+        "address": "ul. Papieża Jana Pawła II 10 (naprzeciwko Kauflandu) Kamienna Góra",
+        "location": [
+            50.784416,
+            16.026901
+        ],
+        "name": "Ziko Apteka",
+        "phones": "75 375 33 37",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "45": {
+        "address": "ul. Papieża Jana Pawła II 10 (naprzeciwko Kauflandu) Kamienna Góra",
+        "location": [
+            50.784416,
+            16.026901
+        ],
+        "name": "Ziko Dermo",
+        "phones": "75 375 33 36",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:22 - 18:00"
+        ]
+    },
+    "46": {
+        "address": "ul. 1 Maja 108a (dawny Market Spar) Katowice",
+        "location": [
+            50.259114,
+            19.053765
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 10",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "47": {
+        "address": "ul. 1 Maja 108a (dawny Market Spar) Katowice",
+        "location": [
+            50.259114,
+            19.053765
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 08",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "48": {
+        "address": "ul. 3 Maja 7  (obok Kina Światowid) Katowice",
+        "location": [
+            50.259679,
+            19.01984
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 16",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "49": {
+        "address": "ul. 3 Maja 7  (obok Kina Światowid) Katowice",
+        "location": [
+            50.259679,
+            19.01984
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 17",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "50": {
+        "address": "ul. 3 Maja 7  (obok Kina Światowid) Katowice",
+        "location": [
+            50.259679,
+            19.01984
+        ],
+        "name": "Ziko Optyk",
+        "phones": "32 438 86 00; 510 474 728",
+        "working_hours": [
+            "pon-pt  08:00 - 19:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "51": {
+        "address": "ul. Panewnicka 40 (przy przystanku Ligota Panewnicka) Katowice",
+        "location": [
+            50.225577,
+            18.96804
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 36",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "52": {
+        "address": "ul. Plebiscytowa 39 (przy Katedrze) Katowice",
+        "location": [
+            50.25255,
+            19.019953
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 26",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "53": {
+        "address": "ul. Plebiscytowa 39 (przy Katedrze) Katowice",
+        "location": [
+            50.25255,
+            19.019953
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 32",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "54": {
+        "address": "aleja Armii Krajowej 38 (Galeria Odrzańskie Ogrody) Kędzierzyn-Koźle",
+        "location": [
+            50.341636,
+            18.189999
+        ],
+        "name": "Ziko Apteka",
+        "phones": "77 540 08 83",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 21:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "55": {
+        "address": "ul. Wojska Polskiego 7 (obok Rossmanna i NETTO) Kędzierzyn-Koźle",
+        "location": [
+            50.346671,
+            18.219078
+        ],
+        "name": "Ziko Apteka",
+        "phones": "77 540 08 84",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "56": {
+        "address": "ul. Henryka Sienkiewicza 27 (przy Placu Artystów) Kielce",
+        "location": [
+            50.871111,
+            20.627787
+        ],
+        "name": "Ziko Apteka",
+        "phones": "41 375 79 68",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "57": {
+        "address": "ul. Ligonia 14A (obok przychodni) Kluczbork",
+        "location": [
+            50.979922,
+            18.209447
+        ],
+        "name": "Ziko Apteka",
+        "phones": "77 540 08 85",
+        "working_hours": [
+            "pon-pt  07:30 - 18:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "58": {
+        "address": "ul. Marszałka Piłsudskiego 12 (obok Santander Bank) Kluczbork",
+        "location": [
+            50.972962,
+            18.211607
+        ],
+        "name": "Ziko Apteka",
+        "phones": "77 540 08 86",
+        "working_hours": [
+            "pon-pt  08:00 - 18:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "59": {
+        "address": "ul. Waryńskiego 2 (obok Dworca PKS) Kluczbork",
+        "location": [
+            50.975373,
+            18.211743
+        ],
+        "name": "Ziko Apteka",
+        "phones": "77 540 08 88",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "60": {
+        "address": "aleja 29 Listopada 65 (naprzeciwko Uniwersytetu Rolniczego) Kraków",
+        "location": [
+            50.083324,
+            19.952857
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 36",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "61": {
+        "address": "aleja 29 Listopada 65 (naprzeciwko Uniwersytetu Rolniczego) Kraków",
+        "location": [
+            50.083324,
+            19.952857
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 16 37",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "62": {
+        "address": "ul. Aleksandry 11 (dawny pawilon Alf) Kraków",
+        "location": [
+            50.012497,
+            20.019068
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 06",
+        "working_hours": [
+            "pon-pt  08:00 - 20:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "63": {
+        "address": "ul. Balicka 14 (Bronowice Małe) Kraków",
+        "location": [
+            50.081557,
+            19.883711
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 39",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "64": {
+        "address": "ul. Beskidzka 30A/3 (koło placu targowego Beskidy, Wola Duchacka Zachód) Kraków",
+        "location": [
+            50.016017,
+            19.950921
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 08",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 17:00",
+            "niedziela handlowa  09:00 - 16:00",
+            "niedziela niehandlowa  09:00 - 16:00"
+        ]
+    },
+    "65": {
+        "address": "ul. Beskidzka 30A/3 (koło placu targowego Beskidy, Wola Duchacka Zachód) Kraków",
+        "location": [
+            50.016017,
+            19.950921
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 56",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 17:00",
+            "niedziela handlowa  09:00 - 16:00"
+        ]
+    },
+    "66": {
+        "address": "ul. Beskidzka 30A/3 (koło placu targowego Beskidy, Wola Duchacka Zachód) Kraków",
+        "location": [
+            50.016017,
+            19.950921
+        ],
+        "name": "Ziko Optyk",
+        "phones": "12 44 81 755; 515 331 989",
+        "working_hours": [
+            "pon-pt  09:00 - 19:00",
+            "sobota  09:00 - 16:00"
+        ]
+    },
+    "67": {
+        "address": "ul. Bratysławska 2/6b (InterHouse Hotel, koło szpitala Narutowicza) Kraków",
+        "location": [
+            50.083412,
+            19.934633
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 09",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "68": {
+        "address": "osiedle Centrum C1 (przy Placu Centralnym) Kraków",
+        "location": [
+            50.073014,
+            20.036947
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 81",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "69": {
+        "address": "osiedle Centrum C1 (przy Placu Centralnym) Kraków",
+        "location": [
+            50.073014,
+            20.036947
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 82",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "70": {
+        "address": "ul. Czerwone Maki 33 (C.H. ATUT Ruczaj) Kraków",
+        "location": [
+            50.011818,
+            19.886555
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 92",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 20:00"
+        ]
+    },
+    "71": {
+        "address": "ul. Czerwone Maki 33 (C.H. ATUT Ruczaj) Kraków",
+        "location": [
+            50.011818,
+            19.886555
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 54",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "72": {
+        "address": "ul. Czerwone Maki 33 (C.H. ATUT Ruczaj) Kraków",
+        "location": [
+            50.011818,
+            19.886555
+        ],
+        "name": "Ziko Optyk",
+        "phones": "12 448 17 53; 515 331 968",
+        "working_hours": [
+            "pon-pt  09:00 - 20:00",
+            "sobota  09:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "73": {
+        "address": "ul. Długa 88  (przy Nowym Kleparzu) Kraków",
+        "location": [
+            50.073195,
+            19.934344
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 21",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    },
+    "74": {
+        "address": "ul. Długa 88  (przy Nowym Kleparzu) Kraków",
+        "location": [
+            50.073195,
+            19.934344
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 16 22",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 17:00"
+        ]
+    },
+    "75": {
+        "address": "ul. Juliana Dunajewskiego 2 (przy Bagateli) Kraków",
+        "location": [
+            50.064114,
+            19.933527
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 40",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  09:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    },
+    "76": {
+        "address": "ul. Juliana Dunajewskiego 2 (przy Bagateli) Kraków",
+        "location": [
+            50.064114,
+            19.933527
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 16 41",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  09:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "77": {
+        "address": "ul. Garncarska 2 (obok Szpitala Specjalistycznego im. Józefa Dietla) Kraków",
+        "location": [
+            50.063158,
+            19.927815
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 80",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 17:00"
+        ]
+    },
+    "78": {
+        "address": "ul. Grażyny 4 (C.H. ATUT przy Placu Imbramowskim) Kraków",
+        "location": [
+            50.088801,
+            19.948958
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 01",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 20:00"
+        ]
+    },
+    "79": {
+        "address": "ul. Grażyny 4 (C.H. ATUT przy Placu Imbramowskim) Kraków",
+        "location": [
+            50.088801,
+            19.948958
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 35",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "80": {
+        "address": "ul. Grażyny 4 (C.H. ATUT przy Placu Imbramowskim) Kraków",
+        "location": [
+            50.088801,
+            19.948958
+        ],
+        "name": "Ziko Optyk",
+        "phones": "12 448 17 34; 506 297 643",
+        "working_hours": [
+            "pon-pt  09:00 - 19:00",
+            "sobota  09:00 - 19:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "81": {
+        "address": "ul. Grzegórzecka 4 (naprzeciwko Hali Targowej) Kraków",
+        "location": [
+            50.059012,
+            19.948812
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 09",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "82": {
+        "address": "osiedle Jagiellońskie 19 (obok kościoła przy Arce) Kraków",
+        "location": [
+            50.084492,
+            20.028099
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 31",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "83": {
+        "address": "osiedle Jagiellońskie 19 (obok kościoła przy Arce) Kraków",
+        "location": [
+            50.084492,
+            20.028099
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 16 32",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "84": {
+        "address": "ul. Kalwaryjska 12 (naprzeciwko KS Korona) Kraków",
+        "location": [
+            50.043714,
+            19.946535
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 25",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "85": {
+        "address": "ul. Kalwaryjska 12 (naprzeciwko KS Korona) Kraków",
+        "location": [
+            50.043714,
+            19.946535
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 26",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "86": {
+        "address": "ul. Kobierzyńska 93 Kraków",
+        "location": [
+            50.026692,
+            19.912223
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 85",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "87": {
+        "address": "ul. Kobierzyńska 93 Kraków",
+        "location": [
+            50.026692,
+            19.912223
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 86",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "88": {
+        "address": "ul. Koło Strzelnicy 2 (przy ul. Królowej Jadwigi 222) Kraków",
+        "location": [
+            50.064612,
+            19.8797679
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 32 20",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "89": {
+        "address": "ul. Marii Konopnickiej 3 (przy moście Dębnickim) Kraków",
+        "location": [
+            50.052857,
+            19.928887
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 07",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "90": {
+        "address": "ul. Kordiana 34a (obok piekarni Awiteks) Kraków",
+        "location": [
+            50.012429,
+            19.964858
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 77",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "91": {
+        "address": "ul. Królewska 47 (obok Poczty) Kraków",
+        "location": [
+            50.072376,
+            19.918468
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 61",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "92": {
+        "address": "ul. Królewska 47 (obok Poczty) Kraków",
+        "location": [
+            50.072376,
+            19.918468
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 62",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "93": {
+        "address": "ul. Krowoderskich Zuchów 8 (przy pętli Krowodrza Górka) Kraków",
+        "location": [
+            50.088889,
+            19.930269
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 05",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "94": {
+        "address": "ul. Krowoderskich Zuchów 8 (przy pętli Krowodrza Górka) Kraków",
+        "location": [
+            50.088889,
+            19.930269
+        ],
+        "name": "Ziko Dermo",
+        "phones": "12 448 17 06",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "95": {
+        "address": "ul. Księcia Józefa 20 (C.H. ATUT) Kraków",
+        "location": [
+            50.0483869,
+            19.8999426
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 395 11 79",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 21:00",
+            "niedziela handlowa  09:00 - 20:00"
+        ]
+    },
+    "96": {
+        "address": "ul. Orzechowa 1 (przy pętli Borek Fałęcki) Kraków",
+        "location": [
+            50.011721,
+            19.926773
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 19",
+        "working_hours": [
+            "pon-pt  07:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "97": {
+        "address": "osiedle Piastów 60 (obok Lewiatanu) Kraków",
+        "location": [
+            50.101845,
+            20.013589
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 07",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "98": {
+        "address": "aleja Powstania Warszawskiego 12 (przy Urzędzie Miasta) Kraków",
+        "location": [
+            50.062909,
+            19.960791
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 78",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "99": {
+        "address": "ul. Retoryka 23 (obok Jubilatu) Kraków",
+        "location": [
+            50.057236,
+            19.928319
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 10",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "100": {
+        "address": "aleja Słowackiego 62 (obok Herbewa) Kraków",
+        "location": [
+            50.073832,
+            19.934862
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 42",
+        "working_hours": [
+            "pon-pt  07:00 - 21:00",
+            "sobota  07:00 - 15:00"
+        ]
+    },
+    "101": {
+        "address": "ul. Starowiślna 54 (obok przystanku Miodowa) Kraków",
+        "location": [
+            50.053441,
+            19.948854
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 79",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "102": {
+        "address": "osiedle Urocze 1 (róg Alei Róż i Rydza-Śmigłego) Kraków",
+        "location": [
+            50.077007,
+            20.037982
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 18",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "103": {
+        "address": "ul. Piłsudskiego 39/6 (obok Urzędu Miasta) Legionowo",
+        "location": [
+            52.395634,
+            20.93162
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 03",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "104": {
+        "address": "ul. Jerzego Siwińskiego 11 (Faktoria, naprzeciwko DH Maxim) Legionowo",
+        "location": [
+            52.389327,
+            20.921022
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 48",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "105": {
+        "address": "ul. Jerzego Siwińskiego 11 (Faktoria, naprzeciwko DH Maxim) Legionowo",
+        "location": [
+            52.389327,
+            20.921022
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 49",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "106": {
+        "address": "ul. Najświętszej Marii Panny 5F Legnica",
+        "location": [
+            51.208729,
+            16.163725
+        ],
+        "name": "Ziko Apteka",
+        "phones": "76 817 69 76",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "107": {
+        "address": "ul. Lubelska 102 (Kaufland) Lubartów",
+        "location": [
+            51.445455,
+            22.611956
+        ],
+        "name": "Ziko Apteka",
+        "phones": "81 756 09 82",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  09:00 - 15:00"
+        ]
+    },
+    "108": {
+        "address": "ul. Lubelska 102 (Kaufland) Lubartów",
+        "location": [
+            51.445455,
+            22.611956
+        ],
+        "name": "Ziko Dermo",
+        "phones": "81 756 09 83",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  09:00 - 15:00"
+        ]
+    },
+    "109": {
+        "address": "ul. Krakowskie Przedmieście 70 (naprzeciwko Sądu Okręgowego) Lublin",
+        "location": [
+            51.247641,
+            22.554303
+        ],
+        "name": "Ziko Apteka",
+        "phones": "81 756 09 80",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "110": {
+        "address": "ul. Krakowskie Przedmieście 70 (naprzeciwko Sądu Okręgowego) Lublin",
+        "location": [
+            51.247641,
+            22.554303
+        ],
+        "name": "Ziko Dermo",
+        "phones": "81 756 09 81",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "111": {
+        "address": "ul. Nadstawna 4 (obok Dworca PKS) Lublin",
+        "location": [
+            51.25269189999999,
+            22.570881
+        ],
+        "name": "Ziko Apteka",
+        "phones": "81 756 09 84",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "112": {
+        "address": "aleja Marszałka Józefa Piłsudskiego 6 (w budynku CENTRAL II) Łódź",
+        "location": [
+            51.759949,
+            19.460105
+        ],
+        "name": "Ziko Apteka",
+        "phones": "42 670 27 14",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 18:00"
+        ]
+    },
+    "113": {
+        "address": "aleja Marszałka Józefa Piłsudskiego 6 (w budynku CENTRAL II) Łódź",
+        "location": [
+            51.759949,
+            19.460105
+        ],
+        "name": "Ziko Dermo",
+        "phones": "42 670 27 15",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 18:00"
+        ]
+    },
+    "114": {
+        "address": "ul. Piotrkowska 29 (skrzyżowanie ul. Piotrkowskiej z ul. Więckowskiego) Łódź",
+        "location": [
+            51.77258,
+            19.455494
+        ],
+        "name": "Ziko Apteka",
+        "phones": "42 670 27 12",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "115": {
+        "address": "ul. Piotrkowska 29 (skrzyżowanie ul. Piotrkowskiej z ul. Więckowskiego) Łódź",
+        "location": [
+            51.77258,
+            19.455494
+        ],
+        "name": "Ziko Dermo",
+        "phones": "42 670 27 13",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "116": {
+        "address": "ul. Puszkina 17 (obok C.H. Batory) Łódź",
+        "location": [
+            51.757133,
+            19.534906
+        ],
+        "name": "Ziko Apteka",
+        "phones": "42 670 27 69",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "117": {
+        "address": "ul. Zygmunta Kazikowskiego 5 (obok MarcPolu) Mińsk Mazowiecki",
+        "location": [
+            52.177828,
+            21.55835
+        ],
+        "name": "Ziko Apteka",
+        "phones": "25 325 39 46",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "118": {
+        "address": "ul. Konstantego Rudzkiego 9 (Vendo Park) Mińsk Mazowiecki",
+        "location": [
+            52.173759,
+            21.563793
+        ],
+        "name": "Ziko Apteka",
+        "phones": "25 325 39 53",
+        "working_hours": [
+            "pon-pt  07:00 - 21:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  08:00 - 20:00"
+        ]
+    },
+    "119": {
+        "address": "ul. Konstytucji 3 Maja 7 (Galeria Partner) Mińsk Mazowiecki",
+        "location": [
+            52.180725,
+            21.561142
+        ],
+        "name": "Ziko Apteka",
+        "phones": "25 325 39 50",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  10:00 - 15:00"
+        ]
+    },
+    "120": {
+        "address": "ul. Mikołaja Kopernika 5 Mińsk Mazowiecki",
+        "location": [
+            52.181805,
+            21.554886
+        ],
+        "name": "Ziko Apteka",
+        "phones": "25 325 39 51",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "121": {
+        "address": "ul. Mikołaja Kopernika 5 Mińsk Mazowiecki",
+        "location": [
+            52.181805,
+            21.554886
+        ],
+        "name": "Ziko Dermo",
+        "phones": "25 325 39 52",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "122": {
+        "address": "ul. Stary Rynek 1 (skrzyżowanie ul. Warszawskiej i Siennickiej) Mińsk Mazowiecki",
+        "location": [
+            52.179184,
+            21.572073
+        ],
+        "name": "Ziko Apteka",
+        "phones": "25 325 39 47",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "123": {
+        "address": "ul. Józefa Hallera 13 (obok Delikatesów Centrum) Mogilno",
+        "location": [
+            52.658895,
+            17.953407
+        ],
+        "name": "Ziko Apteka",
+        "phones": "52 335 09 98",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "124": {
+        "address": "ul. Słoneczna 2e (Galeria Myślenicka) Myślenice",
+        "location": [
+            49.836329,
+            19.947542
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 395 11 48",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 21:00",
+            "niedziela handlowa  10:00 - 19:00"
+        ]
+    },
+    "125": {
+        "address": "ul. Pułaskiego 6a (Kaufland) Myszków",
+        "location": [
+            50.57335,
+            19.31822
+        ],
+        "name": "Ziko Apteka",
+        "phones": "34 307 26 42",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  07:00 - 20:00",
+            "niedziela handlowa  09:00 - 18:00"
+        ]
+    },
+    "126": {
+        "address": "ul. Stanisława Staszica 6 (Galeria Nowa Sól, obok Kauflandu) Nowa Sól",
+        "location": [
+            51.807405,
+            15.697217
+        ],
+        "name": "Ziko Apteka",
+        "phones": "68 381 79 94",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "127": {
+        "address": "ul. Jana Kilińskiego 20 (Galeria DEKADA, obok Dworca PKS) Nowy Targ",
+        "location": [
+            49.478586,
+            20.023593
+        ],
+        "name": "Ziko Apteka",
+        "phones": "18 448 94 50",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  09:00 - 20:00",
+            "niedziela handlowa  10:00 - 19:00"
+        ]
+    },
+    "128": {
+        "address": "ul. Rynek 35 (obok Bazyliki pw. św. Jakuba i św. Agnieszki) Nysa",
+        "location": [
+            50.47436,
+            17.332683
+        ],
+        "name": "Ziko Apteka",
+        "phones": "77 540 08 87",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "129": {
+        "address": "ul. Kazimierza Wielkiego 24 Olkusz",
+        "location": [
+            50.276796,
+            19.565883
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 30",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "130": {
+        "address": "ul. Kazimierza Wielkiego 24 Olkusz",
+        "location": [
+            50.276796,
+            19.565883
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 31",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "131": {
+        "address": "ul. Krakowska 31 (naprzeciwko Filharmonii) Opole",
+        "location": [
+            50.666599,
+            17.924725
+        ],
+        "name": "Ziko Apteka",
+        "phones": "77 540 08 82",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 18:00"
+        ]
+    },
+    "132": {
+        "address": "ul. Jana Matejki 1 (obok Carrefoura, naprzeciwko US) Otwock",
+        "location": [
+            52.098103,
+            21.268109
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 29",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  08:00 - 16:00"
+        ]
+    },
+    "133": {
+        "address": "ul. Jana Matejki 1 (obok Carrefoura, naprzeciwko US) Otwock",
+        "location": [
+            52.098103,
+            21.268109
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 32",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  08:00 - 16:00"
+        ]
+    },
+    "134": {
+        "address": "ul. Powstańców Warszawy 13  (naprzeciwko banku PKO) Otwock",
+        "location": [
+            52.105868,
+            21.263932
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 37",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "135": {
+        "address": "ul. Warszawska 43 (w pasażu Rezydencji Warszawskiej) Piastów",
+        "location": [
+            52.183735,
+            20.839197
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 50",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 19:00"
+        ]
+    },
+    "136": {
+        "address": "ul. Warszawska 43 (w pasażu Rezydencji Warszawskiej) Piastów",
+        "location": [
+            52.183735,
+            20.839197
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 51",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 19:00"
+        ]
+    },
+    "137": {
+        "address": "osiedle Andaluzja 9 (obok Domu Kultury Andaluzja) Piekary Śląskie",
+        "location": [
+            50.367301,
+            18.980639
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 09",
+        "working_hours": [
+            "pon-pt  07:00 - 19:00",
+            "sobota  07:00 - 15:00"
+        ]
+    },
+    "138": {
+        "address": "ul. Bytomska 71 (przy Biedronce i Pepco) Piekary Śląskie",
+        "location": [
+            50.374453,
+            18.94344
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 18",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "139": {
+        "address": "ul. Bytomska 71 (przy Biedronce i Pepco) Piekary Śląskie",
+        "location": [
+            50.374453,
+            18.94344
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 19",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "140": {
+        "address": "ul. Fryderyka Chopina 38A (naprzeciwko Targowiska) Polkowice",
+        "location": [
+            51.504784,
+            16.070558
+        ],
+        "name": "Ziko Apteka",
+        "phones": "76 817 69 75",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "141": {
+        "address": "ul. Dąbrowskiego 47 (naprzeciwko Rynku Jeżyckiego) Poznań",
+        "location": [
+            52.41255,
+            16.905011
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 65",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "142": {
+        "address": "ul. Dąbrowskiego 7 (obok Teatru Nowego) Poznań",
+        "location": [
+            52.411076,
+            16.911933
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 72",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "143": {
+        "address": "ul. Głogowska 132/140 (Górczyńskie Centrum Handlowe) Poznań",
+        "location": [
+            52.388034,
+            16.890338
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 63",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  09:00 - 17:00"
+        ]
+    },
+    "144": {
+        "address": "ul. Głogowska 83 (Rynek Łazarski 1) Poznań",
+        "location": [
+            52.394646,
+            16.899603
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 67",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "145": {
+        "address": "ul. Konfederacka 2 (skrzyżowanie z ul. Grunwaldzką) Poznań",
+        "location": [
+            52.397538,
+            16.871382
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 74",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 18:00"
+        ]
+    },
+    "146": {
+        "address": "ul. Opolska 24 (obok Żabki) Poznań",
+        "location": [
+            52.370786,
+            16.900931
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 73",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "147": {
+        "address": "ul. Palacza 36 obok sklepu Lewiatan Poznań",
+        "location": [
+            52.388591,
+            16.884773
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 68",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  09:00 - 17:00",
+            "niedziela niehandlowa  09:00 - 17:00"
+        ]
+    },
+    "148": {
+        "address": "os. Przyjaźni 132B obok sklepu Chata Polska Poznań",
+        "location": [
+            52.429502,
+            16.925873
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 75",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "149": {
+        "address": "os. Przyjaźni 141B obok sklepu Biedronka Poznań",
+        "location": [
+            52.430172,
+            16.921161
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 60",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 22:00",
+            "niedziela handlowa  11:00 - 22:00",
+            "niedziela niehandlowa  11:00 - 22:00"
+        ]
+    },
+    "150": {
+        "address": "ul. Rycerska 35 (obok Żabki) Poznań",
+        "location": [
+            52.402867,
+            16.87202
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 61",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "151": {
+        "address": "ul. Ściegiennego 65 naprzeciwko sklepu Biedronka Poznań",
+        "location": [
+            52.390016,
+            16.874702
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 62",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  07:30 - 18:00"
+        ]
+    },
+    "152": {
+        "address": "ul. Święty Marcin 58/64 (drugi wieżowiec Alfy) Poznań",
+        "location": [
+            52.407103,
+            16.922466
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 70",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "153": {
+        "address": "ul. Święty Marcin 58/64 (drugi wieżowiec Alfy) Poznań",
+        "location": [
+            52.407103,
+            16.922466
+        ],
+        "name": "Ziko Dermo",
+        "phones": "61 161 24 71",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "154": {
+        "address": "ul. Wierzbięcice 36A (koło Rynku Wildeckiego, obok Biedronki) Poznań",
+        "location": [
+            52.394992,
+            16.921585
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 64",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "155": {
+        "address": "plac Wiosny Ludów 2 (Kupiec Poznański) Poznań",
+        "location": [
+            52.405447,
+            16.931662
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 66",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 21:00",
+            "niedziela handlowa  11:00 - 19:00"
+        ]
+    },
+    "156": {
+        "address": "ul. Zabrzańska 51 (obok McDonald's) Ruda Śląska",
+        "location": [
+            50.299624,
+            18.853033
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 13",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "157": {
+        "address": "ul. Zabrzańska 51 (obok McDonald's) Ruda Śląska",
+        "location": [
+            50.299624,
+            18.853033
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 14",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "158": {
+        "address": "ul. Bolesława Chrobrego 1 (FOCUS PARK) Rybnik",
+        "location": [
+            50.094323,
+            18.543507
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 07",
+        "working_hours": [
+            "pon-pt  09:00 - 21:00",
+            "sobota  09:00 - 21:00",
+            "niedziela handlowa  09:00 - 21:00"
+        ]
+    },
+    "159": {
+        "address": "ul. Józefa Piłsudskiego 54 (D.H. Panama, naprzeciwko Urzędu Miasta) Siedlce",
+        "location": [
+            52.168146,
+            22.274581
+        ],
+        "name": "Ziko Apteka",
+        "phones": "25 325 39 49",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  09:00 - 17:00"
+        ]
+    },
+    "160": {
+        "address": "ul. Józefa Piłsudskiego 54 (D.H. Panama, naprzeciwko Urzędu Miasta) Siedlce",
+        "location": [
+            52.168146,
+            22.274581
+        ],
+        "name": "Ziko Dermo",
+        "phones": "25 325 39 48",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  09:00 - 17:00"
+        ]
+    },
+    "161": {
+        "address": "ul. Kościelna 30 (przy AUCHAN) Siemianowice Śląskie",
+        "location": [
+            50.322983,
+            19.003457
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 25",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "162": {
+        "address": "ul. 11 Listopada 122 (przy Kauflandzie) Sosnowiec",
+        "location": [
+            50.282146,
+            19.176049
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 37",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 19:00",
+            "niedziela handlowa  10:00 - 16:00"
+        ]
+    },
+    "163": {
+        "address": "ul. Jagiellońska 6B (obok Śląskiego Uniwersytetu Medycznego) Sosnowiec",
+        "location": [
+            50.268151,
+            19.132797
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 16 02",
+        "working_hours": [
+            "pon-pt  - "
+        ]
+    },
+    "164": {
+        "address": "ul. Modrzejowska 16 (obok Plazy) Sosnowiec",
+        "location": [
+            50.276697,
+            19.129186
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 29",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "165": {
+        "address": "ul. Beskidzka 135 (obok Biedronki) Szczyrk",
+        "location": [
+            49.720553,
+            19.041251
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 83 47",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "166": {
+        "address": "ul. Leśna 18 (obok Biedronki) Tarnów",
+        "location": [
+            50.017451,
+            21.006334
+        ],
+        "name": "Ziko Apteka",
+        "phones": "14 696 89 90",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "167": {
+        "address": "ul. PCK 26  (przy ul. Klikowskiej, obok PZU Zdrowie) Tarnów",
+        "location": [
+            50.016405,
+            20.978205
+        ],
+        "name": "Ziko Apteka",
+        "phones": "14 696 89 91",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  07:00 - 15:00"
+        ]
+    },
+    "168": {
+        "address": "ul. Wałowa 2 (przy Placu Sobieskiego, obok tramwaju) Tarnów",
+        "location": [
+            50.012155,
+            20.985673
+        ],
+        "name": "Ziko Apteka",
+        "phones": "14 696 89 92",
+        "working_hours": [
+            "pon-pt  07:00 - 19:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "169": {
+        "address": "ul. Poczdamska 8 (obok Rossmanna) Tarnowskie Góry",
+        "location": [
+            50.444276,
+            18.825725
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 11",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "170": {
+        "address": "ul. Poczdamska 8 (obok Rossmanna) Tarnowskie Góry",
+        "location": [
+            50.444276,
+            18.825725
+        ],
+        "name": "Ziko Dermo",
+        "phones": "32 438 86 12",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "171": {
+        "address": "ul. Mickiewicza 2 (w pobliżu Bazyliki) Trzemeszno",
+        "location": [
+            52.5588,
+            17.819058
+        ],
+        "name": "Ziko Apteka",
+        "phones": "61 161 24 69",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "172": {
+        "address": "ul. Belgradzka 22 (vis a vis Galerii Ursynów) Warszawa",
+        "location": [
+            52.140593,
+            21.058273
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 18",
+        "working_hours": [
+            "pon-pt  07:30 - 22:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "173": {
+        "address": "ul. Belgradzka 22 (vis a vis Galerii Ursynów) Warszawa",
+        "location": [
+            52.140593,
+            21.058273
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 19",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "174": {
+        "address": "ul. Broniewskiego 28 (Galeria Żoliborz, AUCHAN) Warszawa",
+        "location": [
+            52.267023,
+            20.96364
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 25",
+        "working_hours": [
+            "pon-pt  07:30 - 21:45",
+            "sobota  09:15 - 21:00",
+            "niedziela handlowa  09:15 - 20:00"
+        ]
+    },
+    "175": {
+        "address": "ul. Bukowińska 22 (obok Biedronki) Warszawa",
+        "location": [
+            52.181252,
+            21.026204
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 13",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "176": {
+        "address": "ul. Cynamonowa 19 (Ursynów, obok Tesco) Warszawa",
+        "location": [
+            52.150042,
+            21.050833
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 00",
+        "working_hours": [
+            "pon-pt  07:30 - 21:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "177": {
+        "address": "ul. Dobra 27 (wejście od ul. Tamki) Warszawa",
+        "location": [
+            52.238166,
+            21.02779
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 40",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "178": {
+        "address": "ul. gen. Augusta Emila Fieldorfa  (skrzyżowanie z ul. Bora-Komorowskiego) Warszawa",
+        "location": [
+            52.224453,
+            21.091243
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 64",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  08:00 - 16:00"
+        ]
+    },
+    "179": {
+        "address": "ul. Jurija Gagarina 2 (skrzyżowanie ul. Gagarina z ul. Czerniakowską) Warszawa",
+        "location": [
+            52.207405,
+            21.047612
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 43",
+        "working_hours": [
+            "pon-pt  07:00 - 22:00",
+            "sobota  07:00 - 15:00"
+        ]
+    },
+    "180": {
+        "address": "ul. Jurija Gagarina 2 (skrzyżowanie ul. Gagarina z ul. Czerniakowską) Warszawa",
+        "location": [
+            52.207405,
+            21.047612
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 44",
+        "working_hours": [
+            "pon-pt  09:00 - 21:00",
+            "sobota  09:00 - 15:00"
+        ]
+    },
+    "181": {
+        "address": "ul. Indiry Gandhi 15 (skrzyżowanie ul. Gandhi z ul. Dereniową) Warszawa",
+        "location": [
+            52.14738,
+            21.042086
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 45",
+        "working_hours": [
+            "pon-pt  07:30 - 21:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "182": {
+        "address": "ul. Gołkowska 19 (obok Poczty Polskiej) Warszawa",
+        "location": [
+            52.192845,
+            21.058833
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 61",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "183": {
+        "address": "ul. Gołkowska 19 (obok Poczty Polskiej) Warszawa",
+        "location": [
+            52.192845,
+            21.058833
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 62",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "184": {
+        "address": "ul. Grochowska 174/176 (przy kładce Mała Grochowska) Warszawa",
+        "location": [
+            52.244976,
+            21.091404
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 15",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  08:00 - 16:00"
+        ]
+    },
+    "185": {
+        "address": "ul. Grochowska 248 (naprzeciwko przystanku Kickiego, obok Poczty) Warszawa",
+        "location": [
+            52.245885,
+            21.079836
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 58",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  10:00 - 18:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    },
+    "186": {
+        "address": "ul. Grochowska 248 (naprzeciwko przystanku Kickiego, obok Poczty) Warszawa",
+        "location": [
+            52.245885,
+            21.079836
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 59",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "187": {
+        "address": "ul. Grójecka 17 (Ochota, obok Ratusza Ochota) Warszawa",
+        "location": [
+            52.222422,
+            20.987348
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 34",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "188": {
+        "address": "ul. Grójecka 17 (Ochota, obok Ratusza Ochota) Warszawa",
+        "location": [
+            52.222422,
+            20.987348
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 35",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "189": {
+        "address": "ul. Władysława Jagiełły 4 (Ursus, skrzyżowanie ul. Cierlickiej z  ul. Traktorzystów) Warszawa",
+        "location": [
+            52.19677,
+            20.882372
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 01",
+        "working_hours": [
+            "pon-pt  07:30 - 21:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "190": {
+        "address": "al. Jana Pawła II 45a (Śródmieście, Nowolipki) Warszawa",
+        "location": [
+            52.243866,
+            20.99135
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 22",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "191": {
+        "address": "al. Jana Pawła II 78/27 (obok przychodni LUXMED) Warszawa",
+        "location": [
+            52.252901,
+            20.984879
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 69",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "192": {
+        "address": "ul. Kasprowicza 119 Warszawa",
+        "location": [
+            52.289616,
+            20.931314
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 56",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "193": {
+        "address": "ul. Kasprowicza 119 Warszawa",
+        "location": [
+            52.289616,
+            20.931314
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 57",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "194": {
+        "address": "ul. Kasprowicza 68/1 (Bielany) Warszawa",
+        "location": [
+            52.286538,
+            20.940012
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 47",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "195": {
+        "address": "ul. Kasprowicza 68/1 (Bielany) Warszawa",
+        "location": [
+            52.286538,
+            20.940012
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 46",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "196": {
+        "address": "ul. Kasprzaka 24/9 (Wola, obok Teatru na Woli) Warszawa",
+        "location": [
+            52.229162,
+            20.968781
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 24",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "197": {
+        "address": "aleja Komisji Edukacji Narodowej 105 (Ursynów) Warszawa",
+        "location": [
+            52.16022,
+            21.028102
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 70",
+        "working_hours": [
+            "pon-pt  07:00 - 23:00",
+            "sobota  07:00 - 23:00",
+            "niedziela handlowa  07:00 - 23:00",
+            "niedziela niehandlowa  07:00 - 23:00"
+        ]
+    },
+    "198": {
+        "address": "aleja Komisji Edukacji Narodowej 105 (Ursynów) Warszawa",
+        "location": [
+            52.16022,
+            21.028102
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 33",
+        "working_hours": [
+            "pon-pt  09:00 - 21:00",
+            "sobota  09:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "199": {
+        "address": "aleja Komisji Edukacji Narodowej 19 (Ursynów, obok Rossmanna) Warszawa",
+        "location": [
+            52.134375,
+            21.062363
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 09",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "200": {
+        "address": "aleja Komisji Edukacji Narodowej 57 Warszawa",
+        "location": [
+            52.147444,
+            21.048589
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 42",
+        "working_hours": [
+            "pon-pt  08:00 - 22:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "201": {
+        "address": "aleja Komisji Edukacji Narodowej 83 (Ursynów) Warszawa",
+        "location": [
+            52.15481,
+            21.035593
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 04",
+        "working_hours": [
+            "pon-pt  07:30 - 21:45",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "202": {
+        "address": "ul. Ludwika Kondratowicza 37 (naprzeciwko Szpitala Bródnowskiego) Warszawa",
+        "location": [
+            52.292712,
+            21.044368
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 65",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "203": {
+        "address": "ul. Ludwika Kondratowicza 37 (naprzeciwko Szpitala Bródnowskiego) Warszawa",
+        "location": [
+            52.292712,
+            21.044368
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 66",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "204": {
+        "address": "aleja Lotników 22 Warszawa",
+        "location": [
+            52.174478,
+            21.013562
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 12",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "205": {
+        "address": "ul. Madalińskiego 25 (w Szpitalu Specjalistycznym im. Św. Rodziny) Warszawa",
+        "location": [
+            52.204268,
+            21.016718
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 41",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  09:00 - 14:00"
+        ]
+    },
+    "206": {
+        "address": "ul. Antoniego Malczewskiego 56 Warszawa",
+        "location": [
+            52.192744,
+            21.010757
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 14",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "207": {
+        "address": "ul. Marszałkowska 140 (Śródmieście) Warszawa",
+        "location": [
+            52.237181,
+            21.007818
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 23",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "208": {
+        "address": "ul. Adama Mickiewicza 27 (przy przystanku autobusowym Plac Wilsona) Warszawa",
+        "location": [
+            52.268222,
+            20.98614
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 52",
+        "working_hours": [
+            "pon-pt  07:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "209": {
+        "address": "aleja Niepodległości 24 (Mokotów) Warszawa",
+        "location": [
+            52.186125,
+            21.019308
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 02",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "210": {
+        "address": "ul. Nowy Świat 45 Warszawa",
+        "location": [
+            52.234888,
+            21.018367
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 38",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  10:00 - 20:00",
+            "niedziela handlowa  12:00 - 20:00",
+            "niedziela niehandlowa  12:00 - 20:00"
+        ]
+    },
+    "211": {
+        "address": "ul. Nowy Świat 45 Warszawa",
+        "location": [
+            52.234888,
+            21.018367
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 39",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  10:00 - 20:00",
+            "niedziela handlowa  12:00 - 20:00"
+        ]
+    },
+    "212": {
+        "address": "ul. Obozowa 16 (obok stacji ORLEN) Warszawa",
+        "location": [
+            52.244807,
+            20.965901
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 54",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "213": {
+        "address": "ul. Obozowa 16 (obok stacji ORLEN) Warszawa",
+        "location": [
+            52.244807,
+            20.965901
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 55",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "214": {
+        "address": "ul. Odkryta 4 (Białołęka, Galeria Odkryta) Warszawa",
+        "location": [
+            52.324705,
+            20.938031
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 30",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 17:00"
+        ]
+    },
+    "215": {
+        "address": "ul. Odkryta 4 (Białołęka, Galeria Odkryta) Warszawa",
+        "location": [
+            52.324705,
+            20.938031
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 31",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  09:00 - 17:00"
+        ]
+    },
+    "216": {
+        "address": "ul. Piękna 31 (wejście od ul. Koszykowej 34/50, Śródmieście) Warszawa",
+        "location": [
+            52.222938,
+            21.01396
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 21",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 15:00",
+            "niedziela handlowa  08:00 - 16:00"
+        ]
+    },
+    "217": {
+        "address": "ul. Pirenejska 2C (obok Rossmanna i Stokrotki) Warszawa",
+        "location": [
+            52.253291,
+            20.913605
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 60",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  09:00 - 15:00"
+        ]
+    },
+    "218": {
+        "address": "ul. Powstańców Śląskich 108 (Bemowo, naprzeciwko targowiska) Warszawa",
+        "location": [
+            52.255919,
+            20.920044
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 08",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  09:00 - 17:00",
+            "niedziela niehandlowa  09:00 - 17:00"
+        ]
+    },
+    "219": {
+        "address": "ul. Powstańców Śląskich 126 (Galeria Bemowo) Warszawa",
+        "location": [
+            52.263745,
+            20.931063
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 27",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 21:00",
+            "niedziela handlowa  09:00 - 20:00"
+        ]
+    },
+    "220": {
+        "address": "ul. Powstańców Śląskich 126 (Galeria Bemowo) Warszawa",
+        "location": [
+            52.263745,
+            20.931063
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 28",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 21:00",
+            "niedziela handlowa  09:00 - 20:00"
+        ]
+    },
+    "221": {
+        "address": "ul. Puławska 101A (Mokotów, róg z ul. Odyńca) Warszawa",
+        "location": [
+            52.197055,
+            21.024569
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 20",
+        "working_hours": [
+            "pon-pt  07:30 - 22:00",
+            "sobota  08:00 - 16:00",
+            "niedziela handlowa  09:00 - 15:00"
+        ]
+    },
+    "222": {
+        "address": "ul. Racławicka 146 (Ochota, naprzeciwko AUCHAN) Warszawa",
+        "location": [
+            52.198738,
+            20.978753
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 07",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "223": {
+        "address": "ul. Eugeniusza Romera 10 (obok Biedronki i Orlenu) Warszawa",
+        "location": [
+            52.1565187,
+            21.0209994
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 11",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "224": {
+        "address": "ul. Stanisława Skarżyńskiego 1 (w budynku Przychodni) Warszawa",
+        "location": [
+            52.209696,
+            20.973727
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 16",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00"
+        ]
+    },
+    "225": {
+        "address": "aleja Solidarności 82 (skrzyżowanie z al. Jana Pawła II, obok KFC) Warszawa",
+        "location": [
+            52.242598,
+            20.993579
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 63",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "226": {
+        "address": "ul. Szczęśliwicka 36 (w budynku Przychodni) Warszawa",
+        "location": [
+            52.218072,
+            20.971895
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 17",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  07:30 - 14:30"
+        ]
+    },
+    "227": {
+        "address": "ul. Targowa 39 (róg z Kępną, Praga Północ) Warszawa",
+        "location": [
+            52.250785,
+            21.039461
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 10",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "228": {
+        "address": "ul. Targowa 59 (Praga Północ, obok Bazaru Różyckiego, przy Dworcu Wileńskim) Warszawa",
+        "location": [
+            52.252656,
+            21.036512
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 26",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "229": {
+        "address": "ul. Targowa 76 (róg z Wileńską) Warszawa",
+        "location": [
+            52.255925,
+            21.034409
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 53",
+        "working_hours": [
+            "pon-pt  07:30 - 21:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "230": {
+        "address": "ul. Warecka 8 (Śródmieście, wejście od Świętokrzyskiej, obok NBP, naprzeciwko Ministerstwa Finansów) Warszawa",
+        "location": [
+            52.236422,
+            21.016009
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 05",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  09:00 - 17:00",
+            "niedziela handlowa  08:00 - 16:00"
+        ]
+    },
+    "231": {
+        "address": "ul. Warecka 8 (Śródmieście, wejście od Świętokrzyskiej, obok NBP, naprzeciwko Ministerstwa Finansów) Warszawa",
+        "location": [
+            52.236422,
+            21.016009
+        ],
+        "name": "Ziko Dermo",
+        "phones": "22 177 87 06",
+        "working_hours": [
+            "pon-pt  07:30 - 20:30",
+            "sobota  09:00 - 17:00"
+        ]
+    },
+    "232": {
+        "address": "aleja Waszyngtona 2A (Praga Południe, w sąsiedztwie Stadionu Narodowego) Warszawa",
+        "location": [
+            52.237828,
+            21.05289
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 36",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "233": {
+        "address": "ul. Stefana Żeromskiego 1 (na parterze Apartamentowca) Warszawa",
+        "location": [
+            52.275068,
+            20.962466
+        ],
+        "name": "Ziko Apteka",
+        "phones": "22 177 87 68",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "234": {
+        "address": "ul. Stary Trakt 2a (C.H. ATUT, przy stacji SHELL) Węgrzce",
+        "location": [
+            50.115566,
+            19.968212
+        ],
+        "name": "Ziko Apteka",
+        "phones": "12 448 17 68",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    },
+    "235": {
+        "address": "ul. Dokerska 22 (obok marketu Stokrotka) Wrocław",
+        "location": [
+            51.139624,
+            16.963539
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 86",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "236": {
+        "address": "ul. Bolesława Drobnera 10 (naprzeciwko wejścia na Wyspę Słodową) Wrocław",
+        "location": [
+            51.117121,
+            17.03364
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 78",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "237": {
+        "address": "ul. Bolesława Drobnera 10 (naprzeciwko wejścia na Wyspę Słodową) Wrocław",
+        "location": [
+            51.117121,
+            17.03364
+        ],
+        "name": "Ziko Dermo",
+        "phones": "71 778 97 79",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 14:00"
+        ]
+    },
+    "238": {
+        "address": "plac Grunwaldzki 16 (obok Biedronki) Wrocław",
+        "location": [
+            51.111212,
+            17.057672
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 85",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 18:00"
+        ]
+    },
+    "239": {
+        "address": "ul. Jedności Narodowej 51-53 (obok Biedronki, przy rondzie Anny German) Wrocław",
+        "location": [
+            51.11955,
+            17.039455
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 83",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "240": {
+        "address": "ul. Krakowska 1 (Galeria Sylwia) Wrocław",
+        "location": [
+            51.095902,
+            17.055092
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 74",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  09:00 - 18:00"
+        ]
+    },
+    "241": {
+        "address": "plac Legionów 13 (naprzeciwko przystanku Plac Legionów) Wrocław",
+        "location": [
+            51.103945,
+            17.022079
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 75",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "242": {
+        "address": "plac Legionów 13 (naprzeciwko przystanku Plac Legionów) Wrocław",
+        "location": [
+            51.103945,
+            17.022079
+        ],
+        "name": "Ziko Dermo",
+        "phones": "71 778 97 76",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "243": {
+        "address": "ul. Oławska 12 (róg z ul. Łaciarską) Wrocław",
+        "location": [
+            51.108564,
+            17.035422
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 84",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "244": {
+        "address": "ul. Pomorska 61 ( na rogu ul. Pomorskiej i ul. Św. Wincentego) Wrocław",
+        "location": [
+            51.121703,
+            17.031069
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 80",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "245": {
+        "address": "ul. Świdnicka 48 (na rogu ul. Świdnickiej i Piłsudskiego) Wrocław",
+        "location": [
+            51.101681,
+            17.029769
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 81",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 18:00"
+        ]
+    },
+    "246": {
+        "address": "ul. Świdnicka 48 (na rogu ul. Świdnickiej i Piłsudskiego) Wrocław",
+        "location": [
+            51.101681,
+            17.029769
+        ],
+        "name": "Ziko Dermo",
+        "phones": "71 778 97 82",
+        "working_hours": [
+            "pon-pt  07:30 - 20:00",
+            "sobota  08:00 - 18:00"
+        ]
+    },
+    "247": {
+        "address": "ul. Generała Romualda Traugutta 92 (obok Komisariatu Policji i Biedronki) Wrocław",
+        "location": [
+            51.101889,
+            17.052985
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 77",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 18:00",
+            "niedziela handlowa  10:00 - 18:00"
+        ]
+    },
+    "248": {
+        "address": "ul. Ustronie 1-3  (boczna od ul. Jedności Narodowej, AUCHAN) Wrocław",
+        "location": [
+            51.127573,
+            17.049304
+        ],
+        "name": "Ziko Apteka",
+        "phones": "71 778 97 73",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  09:00 - 18:00"
+        ]
+    },
+    "249": {
+        "address": "ul. 3 Maja 32 (dawne Kino Apollo) Zabrze",
+        "location": [
+            50.297584,
+            18.787178
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 06",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "250": {
+        "address": "ul. de Gaulle'a 111-113 (AUCHAN) Zabrze",
+        "location": [
+            50.292155,
+            18.782663
+        ],
+        "name": "Ziko Apteka",
+        "phones": "32 438 86 28",
+        "working_hours": [
+            "pon-pt  08:00 - 21:00",
+            "sobota  08:00 - 20:00"
+        ]
+    },
+    "251": {
+        "address": "ul. Stary Rynek 18 (naprzeciwko USC) Zielona Góra",
+        "location": [
+            51.938623,
+            15.504627
+        ],
+        "name": "Ziko Apteka",
+        "phones": "68 381 79 91",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "252": {
+        "address": "ul. Stefana Żeromskiego 23 (naprzeciwko pomnika Bachusa) Zielona Góra",
+        "location": [
+            51.939783,
+            15.506928
+        ],
+        "name": "Ziko Apteka",
+        "phones": "68 381 79 92",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "253": {
+        "address": "ul. Stefana Żeromskiego 23 (naprzeciwko pomnika Bachusa) Zielona Góra",
+        "location": [
+            51.939783,
+            15.506928
+        ],
+        "name": "Ziko Dermo",
+        "phones": "68 381 79 93",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 16:00"
+        ]
+    },
+    "254": {
+        "address": "ul. 1 Maja 40 (Galeria Dekada) Żyrardów",
+        "location": [
+            52.053784,
+            20.440686
+        ],
+        "name": "Ziko Apteka",
+        "phones": "46 464 69 57",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 19:00"
+        ]
+    },
+    "255": {
+        "address": "ul. 1 Maja 2 (przy dworcu PKS) Żywiec",
+        "location": [
+            49.680127,
+            19.188681
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 51",
+        "working_hours": [
+            "pon-pt  07:00 - 20:00",
+            "sobota  08:00 - 15:00"
+        ]
+    },
+    "256": {
+        "address": "ul. Zielona 3 (Galeria LIDER) Żywiec",
+        "location": [
+            49.690975,
+            19.200646
+        ],
+        "name": "Ziko Apteka",
+        "phones": "33 484 81 46",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela handlowa  10:00 - 18:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    },
+    "257": {
+        "address": "ul. Zielona 3 (Galeria LIDER) Żywiec",
+        "location": [
+            49.690975,
+            19.200646
+        ],
+        "name": "Ziko Dermo",
+        "phones": "33 484 81 47",
+        "working_hours": [
+            "pon-pt  08:00 - 20:00",
+            "sobota  08:00 - 20:00",
+            "niedziela niehandlowa  10:00 - 18:00"
+        ]
+    }
+}
