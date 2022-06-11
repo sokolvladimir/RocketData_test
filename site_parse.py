@@ -177,8 +177,8 @@ def monomah_site():
 
 
 def main():
-    # kfc_site()
-    # ziko_site()
+    kfc_site()
+    ziko_site()
     monomah_site()
 
 
