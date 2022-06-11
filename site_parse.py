@@ -2,7 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
-
+from time import sleep
 
 # Функция получения рабочих часов
 def get_working_hours_kfc(lst):
@@ -160,8 +160,12 @@ def monomah_site():
             address = dct["address"].split("(")[0] + "Минск"
             if "пр-т" in address:
                 address = "проспект" + address[4:]
+            if address.find(".", 3) != -1:
+                address = address[:3] + address[address.find(".", 3) + 1:]
+            address = address.replace(",", ' ')
             location = geolocator.geocode(address)
             dct["latlon"] = [location.latitude, location.longitude]
+            sleep(3)
         except:
             dct["latlon"] = "Я пытался"
 
@@ -173,8 +177,8 @@ def monomah_site():
 
 
 def main():
-    kfc_site()
-    ziko_site()
+    # kfc_site()
+    # ziko_site()
     monomah_site()
 
 
