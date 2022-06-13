@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
 from time import sleep
 
+
 # Функция получения рабочих часов
 def get_working_hours_kfc(lst):
 
